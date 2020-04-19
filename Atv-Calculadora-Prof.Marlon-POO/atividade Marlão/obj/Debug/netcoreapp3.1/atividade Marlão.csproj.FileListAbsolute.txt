@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\obj\Debug\netcoreapp3.1\atividade Marlão.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\obj\Debug\netcoreapp3.1\atividade Marlão.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\obj\Debug\netcoreapp3.1\atividade Marlão.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\bin\Debug\netcoreapp3.1\atividade Marlão.exe
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\bin\Debug\netcoreapp3.1\atividade Marlão.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\bin\Debug\netcoreapp3.1\atividade Marlão.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\bin\Debug\netcoreapp3.1\atividade Marlão.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\bin\Debug\netcoreapp3.1\atividade Marlão.dll
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\bin\Debug\netcoreapp3.1\atividade Marlão.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\obj\Debug\netcoreapp3.1\atividade Marlão.dll
+C:\Users\victo\OneDrive\Área de Trabalho\atividade Marlão\atividade Marlão\obj\Debug\netcoreapp3.1\atividade Marlão.pdb
