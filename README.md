@@ -1,2 +1,0 @@
-# Atividade1
-Calculadora
